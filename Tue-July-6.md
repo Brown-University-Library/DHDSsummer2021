@@ -3,7 +3,7 @@ layout: default
 title: Tuesday, July 6. (Day 1)
 nav_order: 1
 parent: Syllabus
-
+---
 # Overview
 
 * 1-11:30 Introductions
