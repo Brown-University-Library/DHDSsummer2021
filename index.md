@@ -16,4 +16,4 @@ This site will hold the program, resources and course materials for the 2021 CDS
 Setting it up so that the blank pages are there, and a footer/header would be great. 
 
  
-<!-- {% include footer.html %} -->
+
