@@ -4,7 +4,7 @@ layout: default
 title: Wednesday, July 7. (Day 2)
 nav_order: 2
 parent: syllabus
-permalink: /syllabus/day2
+
 ---
 # Overview
 
