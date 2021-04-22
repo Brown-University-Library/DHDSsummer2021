@@ -7,7 +7,7 @@ permalink: /
 ---
 # Summer 2021 Digital Humanities Digital Scholarship (DHDS) Workshop
 
-[Apply to participate](/) {.highlight}
+[Apply to participate](/){.highlight}
 
 The Library's [Center for Digital Scholarship (CDS)](http://cds.library.brown.edu) is offering an introductory summer program for graduate students in the Humanities and adjacent Social Sciences on digital humanities tools and concepts that bolster digital work. 
 
