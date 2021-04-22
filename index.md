@@ -24,7 +24,7 @@ For more details about the program, see [our details page](/).
 
 The course will be remote and partly asynchronous, and take place over two weeks. 
 
-** You will be expected to attend in-person 3 days a week, from 11:00 am - 12:30 pm and 1:00 - 3:30 pm (EDT). **
+**You will be expected to attend in-person 3 days a week, from 11:00 am - 12:30 pm and 1:00 - 3:30 pm (EDT).**
 
 Between live classes, participants will complete readings, view videos, and do homework which will incorporate the skills and tools that are presented in the meetings. 
 
