@@ -7,20 +7,31 @@ has_children: true
 # Overview (DRAFT)
 
 ## Day 0
-Dropin Hours | Assistance with setup, installation and review of possible datasets
+
+*Dropin Hours* Assistance with setup, installation and review of possible datasets
 
 ## Day 1 (Tuesday July 6)
+
 11:00-12:30 | Introductions to participants<br/>Introduction to the workshop
 1:00-3:30 | Exploration of tools and data
 
 ## Day 2 (Wednesday July 7)
-11:00-12:30 | Gathering resources (OCR, web scraping, collections as data)
-1:00-3:30 | Hands on practice. Organizing and managing your work. Intro to platforms for disseminating your work.
+<table>
+<tr><td>11:00-12:30</td>
+<td>Gathering resources (OCR, web scraping, collections as data)</td>
+</tr>
+<tr>
+<td>1:00-3:30</td>
+<td>Hands on practice. Organizing and managing your work. Intro to platforms for disseminating your work.</td>
+</tr>
+</table>
 
 ## Day 2.5 (asyncrhonous)
-Reading: The ethics of data. Write short response.
+*Reading:* The ethics of data. Write short response.
 
 ## Day 3 (Friday July 9)
+Time | Topic
+---- | -----
 11:00-12:30 | Discuss readings. How do websites work?
 1:00-3:30 |  Cleaning and structuring data (hands on). Project proposals to the group for comment.
 
