@@ -13,13 +13,13 @@ In addition, the workshop will include readings and discussion on the practice o
 
 <div style="background: #eee; padding: 1em">
 
-**Upon completing this program, participants will:**
-
-* be familiar with a variety of digital methods, the ramifications of applying digital methods and working with digital cultural and historical data
-* have a familiarity with existing digital humanities projects (and have criteria for evaluating them)
-* be familiar with DH as a disciplinary domain
-* be able to plan their own digital project
-
+<h2>Upon completing this program, participants will:</h2>
+<ul>
+<li>be familiar with a variety of digital methods, the ramifications of applying digital methods and working with digital cultural and historical data</li>
+<li>have a familiarity with existing digital humanities projects (and have criteria for evaluating them)</li>
+<li>be familiar with DH as a disciplinary domain</li>
+<li>be able to plan their own digital project
+</ul>
 </div>
 
 For more details about the program, see [our details page](/).
