@@ -11,23 +11,6 @@ permalink: /
 
 The Library's [Center for Digital Scholarship (CDS)](http://cds.library.brown.edu) is offering an introductory summer program for graduate students in the Humanities and adjacent Social Sciences on digital humanities tools and concepts that bolster digital work. 
 
-TEST
-
-
-# Focus on writing good documentation
-{: .fs-9 }
-
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
-
-
-
-TEST
-
-
-
 In addition, the workshop will include readings and discussion on the practice of Digital Humanities, topics like sustainability, data management, and documentation, and will provide an opportunity to explore the digital dimensions of participants’ research projects.
 
 ## Upon completing this program, participants will:
