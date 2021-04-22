@@ -13,7 +13,7 @@ The Library's [Center for Digital Scholarship (CDS)](http://cds.library.brown.ed
 
 In addition, the workshop will include readings and discussion on the practice of Digital Humanities, topics like sustainability, data management, and documentation, and will provide an opportunity to explore the digital dimensions of participants’ research projects.
 
-<div class="bg-grey-lt-000">
+<div class="bg-grey-lt-000" markdown="1">
 
 ## Upon completing this program, participants will:
 
