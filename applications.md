@@ -29,6 +29,7 @@ The workshop will be limited to 12 participants. Interested graduate students sh
 * Total effort anticipated for this workshop is 24 hours of synchronous class time, and about 12 hours of reading and homework.
 * [Application form](https://docs.google.com/forms/d/e/1FAIpQLSd0HCk7UYH7qE5qQQ6DOiJWXmOaVJGEn-be_WfrD3ZYDRqk-A/viewform?usp=sf_link)  
 * Tentative Schedule (coming soon)
+* If you have any questions, please contact: [Steve Lubar](mailto:/lubar@brown.edu), [Elli Mylonas](elli_mylonas@brown.edu) or [Patrick Rashleigh](patrick_rashleigh@brown.edu)
 
 
 
