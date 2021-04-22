@@ -20,6 +20,7 @@ In addition, the workshop will include readings and discussion on the practice o
 <li>be familiar with DH as a disciplinary domain</li>
 <li>be able to plan their own digital project
 </ul>
+
 </div>
 
 For more details about the program, see [our details page](/).
