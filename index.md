@@ -22,11 +22,7 @@ In addition, the workshop will include readings and discussion on the practice o
 - be familiar with DH as a disciplinary domain
 - be able to plan their own digital project
 
-<<<<<<< HEAD
-For more details, see [our syllabus](https://brown-university-library.github.io/DHDSsummer2021/syllabus.html).
-=======
 </div>
->>>>>>> 0abe6f03f442f358451cf82a74edc8c8434a747a
 
 ## Schedule and format
 
