@@ -13,6 +13,8 @@ The Library's [Center for Digital Scholarship (CDS)](http://cds.library.brown.ed
 
 In addition, the workshop will include readings and discussion on the practice of Digital Humanities, topics like sustainability, data management, and documentation, and will provide an opportunity to explore the digital dimensions of participants’ research projects.
 
+<div class="bg-grey-lt-000">
+
 ## Upon completing this program, participants will:
 
 - be familiar with a variety of digital methods, the ramifications of applying digital methods and working with digital cultural and historical data
@@ -20,7 +22,7 @@ In addition, the workshop will include readings and discussion on the practice o
 - be familiar with DH as a disciplinary domain
 - be able to plan their own digital project
 
-For more details about the program, see [our details page](/).
+</div>
 
 ## Schedule and format
 
