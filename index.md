@@ -32,7 +32,7 @@ The course will be remote and partly asynchronous, and take place over two weeks
 
 Between live classes, participants will complete readings, view videos, and do homework which will incorporate the skills and tools that are presented in the meetings.
 
-Over the second week of the workshop, participants will prepare a small digital project and present it to the class on the last day. There will be opportunities for discussions arising out of participants’ interests.
+Over the second week of the workshop, participants will prepare a small digital project and present it to the group on the last day. There will be opportunities for discussions arising out of participants’ interests.
 
 <br/>
 {% include footer.html %}
