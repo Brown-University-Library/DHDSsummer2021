@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Digital Humanities/Digital Scholarship Summer Workshop
 
-##July 6-16, Organized by the Center for Digital Scholarship in the Brown University Library{: .fs-6 .fw-300 }
+## July 6-16, Organized by the Center for Digital Scholarship in the Brown University Library{: .fs-6 .fw-300 }
 
 [Application form](https://docs.google.com/forms/d/e/1FAIpQLSd0HCk7UYH7qE5qQQ6DOiJWXmOaVJGEn-be_WfrD3ZYDRqk-A/viewform?usp=sf_link){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
