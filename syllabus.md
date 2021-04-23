@@ -20,7 +20,7 @@ has_children: true
 1:00-3:30< | Hands on practice. Organizing and managing your work. Intro to platforms for disseminating your work.</td>
 
 
-### Day 2.5 (asyncrhonous)
+### Day 2.5 (asynchronous)
 *Reading:* The ethics of data. Write short response.
 
 ### Day 3 (Friday July 9)
@@ -28,7 +28,7 @@ has_children: true
 11:00-12:30 | Discuss readings. How do websites work?
 1:00-3:30 |  Cleaning and structuring data (hands on). Project proposals to the group for comment.
 
-###  Day 3.5 (asyncrhonous)
+###  Day 3.5 (asynchronous)
 Reading: Digital methods as theoretical frameworks. Write short response. Work on project.
 
 ### Day 4 (Monday July 12)
@@ -36,7 +36,7 @@ Reading: Digital methods as theoretical frameworks. Write short response. Work o
 11:00-12:30 | Discuss readings. Analyzing and structuring text.
 1:00-3:30 | Hands on.
 
-### Day 4.5  (asyncrhonous)
+### Day 4.5  ()
 Reading: Invisible work, time and rols in DH.  Write short response. Work on project.
 
 ### Day 5 (Wednesday July 14)
