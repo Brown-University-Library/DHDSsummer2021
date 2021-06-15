@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Wednesday, July 7. (Day 2)
+title: Friday, July 9. (Day 3)
 nav_order: 3
 parent: Syllabus
 ---
 # Overview
 
-Forthcoming
+Forthcoming...
 
 
 

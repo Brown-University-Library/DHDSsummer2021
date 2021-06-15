@@ -16,6 +16,7 @@ has_children: true
 1:00-3:30 | Exploration of tools and data
 
 ### Day 2 (Wednesday July 7)
+
 11:00-12:30 | Gathering resources (OCR, web scraping, collections as data)
 1:00-3:30< | Hands on practice. Organizing and managing your work. Intro to platforms for disseminating your work.</td>
 
