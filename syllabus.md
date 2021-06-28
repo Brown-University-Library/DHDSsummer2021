@@ -12,8 +12,9 @@ has_children: true
 
 ### Day 1 (Tuesday July 6)
 
-11:00-12:30 | Introductions to participants<br/>Introduction to the workshop
-1:00-3:30 | Exploration of tools and data
+11:00-12:30 | Welcome and introductions<br/>DH project evaluation exercise
+1:00-3:30 | DH project evaluation exercise; AntConc demonstration and hands on.
+Homework | Reading; short response
 
 ### Day 2 (Wednesday July 7)
 
