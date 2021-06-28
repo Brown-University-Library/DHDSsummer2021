@@ -20,4 +20,4 @@ parent: Syllabus
 ## Homework
 
 <br/>
-{% include footer.html %}
+
