@@ -6,7 +6,11 @@ has_children: true
 ---
 # Overview
 
-A detailed schedule is available for each day, together with assignments, readings and other
+A detailed schedule is available for each day, together with assignments, readings and exercises. The workshop will meet over Zoom from 11:00-12:30EDT  and 1:00-3:30EDT on synchronous days (Eastern D). There will be open office hours from 11:00-12:00 or by appointment on the alternate days. You are welcome to attend office hours in order to discuss a particular question or to explore DH/DS themes more generally. The last day of the workshop, Friday, July 16, will have an extended schedule in order to allow everyone an opportunity to present their project.
+
+If you are in a time zone other than Eastern US time, you can use the [Time Zone Converter[(https://www.timeanddate.com/worldclock/converter.html?iso=20210629T150000&p1=878)] to double check local time.
+
+We will be using a Google Drive folder to share documents and also to store project proposals and discussion notes, and the workshop will be held using Zoom. You will receive an email with the Zoom link and an invitation to the Google folder.
 
 ## Day 0
 
@@ -18,43 +22,23 @@ Welcome and introductions to participants; Learning to look critically at a digi
 
 ###  Wednesday July 7 (Day 2)
 
-11:00-12:30 | Gathering resources (OCR, web scraping, collections as data)<br/>
-1:00-3:30 | Hands on practice. Organizing and managing your work. Intro to platforms for disseminating your work.
-
-
-### Day 2.5 (asynchronous)
-*Reading:* The ethics of data. Write short response.<br/>
-Drop-in office hours: 11:00-12:00 (or by appointment).
+Gathering resources and acquiring data (OCR, web scraping, collections as data); Hands on web scraping. Homework
 
 ### Day 3 (Friday July 9)
 
-11:00-12:30 | Discuss readings. How do websites work?<br/>
-1:00-3:30 | Hands on practice. Cleaning and structuring data. Project proposals to the group for comment.
-
-###  Day 3.5 (asynchronous)
-*Reading:* Digital methods as theoretical frameworks. Write short response. Work on project.
+The ethics of data; Cleaning and structuring data; Hands on wtih a text editor and regular expressions. Project proposals to the group for comment.
 
 ### Day 4 (Monday July 12)
 
-11:00-12:30 | Discuss readings. Analyzing and structuring text.<br/>
-1:00-3:30 | Hands on practice. Gathering and evaluating data.
-
-### Day 4.5  (asynchronous)
-*Reading:* Invisible work, time and roles in DH.  Write short response. Work on project.<br/>
-Drop-in office hours: 11:00-12:00 (or by appointment).
+Organizing your data; Analyzing text; How websites work.
 
 ### Day 5 (Wednesday July 14)
 
-11:00-12:30 | Discuss readings. Intro to GIS for the humanities<br/>
-1:00-3:30 | Visualization for textual and tabular data. Resources for future work.
+GIS; Visualization; Metadata and controlled vocabularies
 
-### Day 5.5 (asynchronous)
-Prepare project presentation.<br/>
-Drop-in office hours: 11:00-12:00 (or by appointment).
 
 ### Day 6 (Friday July 16)
 
-11:00-12:30 | Project Presentations<br/>
-1:00-3:30 | Project Presentations
+Project Presentations
 
 <br/>
