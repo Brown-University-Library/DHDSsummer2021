@@ -4,18 +4,19 @@ title: Syllabus
 nav_order: 3
 has_children: true
 ---
-# Overview 
+# Overview
+
+A detailed schedule is available for each day, together with assignments, readings and other
 
 ## Day 0
 
 *Drop-in Hours* Assistance with setup, installation and review of possible datasets
 
-### Day 1 (Tuesday July 6)
+### Tuesday July 6 (Day 1)
 
-11:00-12:30 | Introductions to participants<br/> Introduction to the workshop<br/>
-1:00-3:30 | Exploration of tools and data
+Welcome and introductions to participants; Learning to look critically at a digital project; Hands on with AntConc.
 
-### Day 2 (Wednesday July 7)
+###  Wednesday July 7 (Day 2)
 
 11:00-12:30 | Gathering resources (OCR, web scraping, collections as data)<br/>
 1:00-3:30 | Hands on practice. Organizing and managing your work. Intro to platforms for disseminating your work.

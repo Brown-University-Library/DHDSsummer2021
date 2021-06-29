@@ -7,7 +7,9 @@ nav_order: 2
 
 ## July 6-16, Organized by the Center for Digital Scholarship in the Brown University Library
 
-[Application form](https://docs.google.com/forms/d/e/1FAIpQLSd0HCk7UYH7qE5qQQ6DOiJWXmOaVJGEn-be_WfrD3ZYDRqk-A/viewform?usp=sf_link){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+<!-- [Application form](https://docs.google.com/forms/d/e/1FAIpQLSd0HCk7UYH7qE5qQQ6DOiJWXmOaVJGEn-be_WfrD3ZYDRqk-A/viewform?usp=sf_link){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
+
+Applications are closed.
 
 CDS is offering an Introduction to Digital Humanities/Digital Scholarship summer workshop for graduate students in the Humanities and adjacent Social Sciences that will provide an introduction to a range of tools as well as the concepts that bolster digital work. In addition to a general introduction to a variety of  tools and methods, the workshop will include readings and discussion on the practice of Digital Humanities, topics like sustainability, data management, and documentation, and will provide an opportunity to explore the digital dimensions of participants’ research projects.
 
