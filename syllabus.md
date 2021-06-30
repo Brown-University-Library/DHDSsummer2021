@@ -24,21 +24,21 @@ Welcome and introductions to participants; Learning to look critically at a digi
 
 Gathering resources and acquiring data (OCR, web scraping, collections as data); Hands on web scraping. Homework
 
-### Day 3 (Friday July 9)
+### Friday July 9 (Day 3)
 
 The ethics of data; Cleaning and structuring data; Hands on wtih a text editor and regular expressions. Project proposals to the group for comment.
 
-### Day 4 (Monday July 12)
+### Monday July 12 (Day 4)
 
 Organizing your data; Analyzing text; How websites work.
 
-### Day 5 (Wednesday July 14)
+### Wednesday July 14 (Day 5)
 
 GIS; Visualization; Metadata and controlled vocabularies
 
 
-### Day 6 (Friday July 16)
+### Friday July 16 (Day 6)
 
-Project Presentations
+Project presentations.
 
 <br/>
