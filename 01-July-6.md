@@ -39,7 +39,7 @@ Some datasets to use with AntConc.
 
 ## Homework
 
-Read one or two of the following and write a one page response to it. Please put the response in the Day 1 Reading folder in the shared google drive. There will be a short discussion of the readings on Wednesday  morning.
+Read one or two of the following and write a one page response. Please put the response in the Day 1 Reading folder in the shared google drive. There will be a short discussion of the readings on Wednesday  morning.
 
 * Ryan Cordell ["Speculative Bibliography"](https://doi.org/10.1515/ang-2020-0041)
 * IHR Digital History Seminar. Zoe Alker, ["Data mining convict tattoos, 1788-1925"](https://www.youtube.com/watch?v=L5jmtExC7A4) video
