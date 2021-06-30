@@ -35,7 +35,9 @@ Read one or two of the following and write a one page response. Please put the r
 
 ## Further Reading
 
-*
+* ? examples of web scraping?
+* OCR report from Northeastern?
+* longer document on collections as data?
 
 <br/>
 {% include footer.html %}

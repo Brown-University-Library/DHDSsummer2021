@@ -8,7 +8,7 @@ has_children: true
 
 A detailed schedule is available for each day, together with assignments, readings and exercises. The workshop will meet over Zoom from 11:00-12:30EDT  and 1:00-3:30EDT on synchronous days (Eastern D). There will be open office hours from 11:00-12:00 or by appointment on the alternate days. You are welcome to attend office hours in order to discuss a particular question or to explore DH/DS themes more generally. The last day of the workshop, Friday, July 16, will have an extended schedule in order to allow everyone an opportunity to present their project.
 
-If you are in a time zone other than Eastern US time, you can use the [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html?iso=20210629T150000&p1=878)] to double check local time.
+If you are in a time zone other than Eastern US time, you can use the [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html?iso=20210629T150000&p1=878) to double check local time.
 
 We will be using a Google Drive folder to share documents and also to store project proposals and discussion notes, and the workshop will be held using Zoom. You will receive an email with the Zoom link and an invitation to the Google folder.
 

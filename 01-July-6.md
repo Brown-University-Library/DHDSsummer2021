@@ -27,6 +27,7 @@ In 3 or 4 small groups, please select a digital project from the list below, and
 * [Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/)
 * [Our Marathon](https://marathon.library.northeastern.edu/)
 * [Early Caribbean Digital Archive](https://ecda.northeastern.edu/)
+* [Torn Apart / Separados](http://xpmethod.columbia.edu/torn-apart/volume/2/index)
 * ?
 
 ### AntConc demonstration and exercise
