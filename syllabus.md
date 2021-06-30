@@ -6,7 +6,7 @@ has_children: true
 ---
 # Overview
 
-A detailed schedule is available for each day, together with assignments, readings and exercises. The workshop will meet over Zoom from 11:00-12:30EDT  and 1:00-3:30EDT on synchronous days (Eastern D). There will be open office hours from 11:00-12:00 or by appointment on the alternate days. You are welcome to attend office hours in order to discuss a particular question or to explore DH/DS themes more generally. The last day of the workshop, Friday, July 16, will have an extended schedule in order to allow everyone an opportunity to present their project.
+A detailed schedule is available for each day, together with assignments, readings and exercises. The workshop will meet over Zoom from 11:00-12:30EDT  and 1:00-3:30EDT on synchronous days. There will be open office hours from 11:00-12:00 or by appointment on the alternate days. You are welcome to attend office hours in order to discuss a particular question or to explore DH/DS themes more generally. The last day of the workshop, Friday, July 16, will have an extended schedule in order to allow everyone an opportunity to present their project.
 
 If you are in a time zone other than Eastern US time, you can use the [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html?iso=20210629T150000&p1=878) to double check local time.
 
@@ -26,7 +26,7 @@ Gathering resources and acquiring data (OCR, web scraping, collections as data);
 
 ### Friday July 9 (Day 3)
 
-The ethics of data; Cleaning and structuring data; Hands on wtih a text editor and regular expressions. Project proposals to the group for comment.
+The ethics of data; Cleaning and structuring data; Hands on with a text editor and regular expressions. Project proposals to the group for comment.
 
 ### Monday July 12 (Day 4)
 
@@ -39,6 +39,6 @@ GIS; Visualization; Metadata and controlled vocabularies
 
 ### Friday July 16 (Day 6)
 
-Project presentations.
+Project presentations. Note that this day will be a longer day with no lunch break as it will consist of presentations.  
 
 <br/>
