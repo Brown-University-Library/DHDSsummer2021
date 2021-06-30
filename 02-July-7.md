@@ -27,11 +27,13 @@ parent: Syllabus
 
 ## Homework
 
-Read one or two of the following and write a one page response. Please put the response in the Day 2 Reading folder in the shared google drive. There will be a short discussion of the readings on Thursday morning.
+Read one or two of the following and write a one page response. Please put the response in the Day 2 Reading folder in the shared google drive. There will be a short discussion of the readings on Friday morning.
 
 * Rawson and Muñoz, ["Against Cleaning"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51)
 * Hannah Davis, ["A dataset is a worldview"](https://towardsdatascience.com/a-dataset-is-a-worldview-5328216dd44d)
 * Elena Pierazzo ["How Subjective is Your Model?"](https://search.library.brown.edu/catalog/b8986701) in Flanders and Jannides, (eds) _The Shape of Data in the Digital Humanities_.
+
+Start to think about your project. Create a Google doc in the Workshop Shared folder and write a paragraph (more if you feel like it) about your project. Remember that you only have a week to work on it, so don't be too ambitious. We will be using the proposal documents for collaborative feedback.  You should identify the research question, and the dataset that you plan to use, as well as the digital tools and methods that seem to be applicable. The project may be a proof of concept or very limited version of something you would expand later. 
 
 ## Further Reading
 

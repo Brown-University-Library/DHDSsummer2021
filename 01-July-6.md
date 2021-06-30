@@ -47,8 +47,9 @@ Read one or two of the following and write a one page response. Please put the r
 * IHR Digital History Seminar. Zoe Alker, ["Data mining convict tattoos, 1788-1925"](https://www.youtube.com/watch?v=L5jmtExC7A4) video
 
 
-## Further reading
+## Further Reading
 
-* AntConc tutorials: [A Simple Guide to Using AntConc](http://www.laurenceanthony.net/software/antconc/resources/help_AntConc321_english.pdf); [The Programming Historian. Corpus Analysis with AntConc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc); there are also YouTube tutorials.
+* AntConc tutorials: [A Simple Guide to Using AntConc](http://www.laurenceanthony.net/software/antconc/resources/help_AntConc321_english.pdf); The Programming Historian. [Corpus Analysis with AntConc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc); there are also YouTube tutorials.
+* John Unsworth's ["Scholarly Primitives: what methods do humanities researchers have in common, and how might our tools reflect this?"](https://www.timeanddate.com/worldclock/converter.html?iso=20210629T150000&p1=878) is a short thought piece that was presented as a talk, and is often cited in discussions of Digital Humanities and scholarly research.
 
 <br/>
