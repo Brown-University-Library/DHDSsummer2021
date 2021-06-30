@@ -26,7 +26,7 @@ Gathering resources and acquiring data (OCR, web scraping, collections as data);
 
 ### Friday July 9 (Day 3)
 
-The ethics of data; Cleaning and structuring data; Hands on wtih a text editor and regular expressions. Project proposals to the group for comment.
+The ethics of data; Cleaning and structuring data; Hands on with a text editor and regular expressions. Project proposals to the group for comment.
 
 ### Monday July 12 (Day 4)
 
