@@ -19,7 +19,7 @@ parent: Syllabus
 
 Read one or two of the following and write a one page response. Please put the response in the Day 3 Reading folder in the shared google drive. There will be a short discussion of the readings on Monday morning.
 
-*(Text analysis readings.
+* D'Ignazio and Klein [1. The Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/3?readingCollection=0cd867ef#annotations:oBzRwKakEeumQ4cWPahqmQ) in _Data Feminism_
 
 ## Further Reading
 
