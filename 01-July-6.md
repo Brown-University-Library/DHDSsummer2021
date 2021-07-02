@@ -29,7 +29,7 @@ In 3 or 4 small groups, please select a digital project from the list below, and
 * [Early Caribbean Digital Archive](https://ecda.northeastern.edu/)
 * [Torn Apart / Separados](http://xpmethod.columbia.edu/torn-apart/volume/2/index)
 * [ORBIS](https://orbis.stanford.edu/)
-* ?
+*
 
 ### AntConc demonstration and exercise
 
@@ -41,10 +41,12 @@ Some datasets to use with AntConc
 
 
 ## Homework
-Read one or two of the following and write a one page response. Please put the response in the Day 1 Reading folder in the shared google drive. There will be a short discussion of the readings on Wednesday  morning.
+Read one or two of the following and write a one page response. Please put the response in the Day 1 Reading folder in the shared google drive. There will be a short discussion of the readings on Wednesday morning.
 
 * Ryan Cordell ["Speculative Bibliography"](https://doi.org/10.1515/ang-2020-0041)
 * IHR Digital History Seminar. Zoe Alker, ["Data mining convict tattoos, 1788-1925"](https://www.youtube.com/watch?v=L5jmtExC7A4) video
+* [_Documenting The	Now_ White	Paper: Ethical Considerations	for	Archiving	Social Media	Content	Generated	by Contemporary
+Social	Movements: Challenges, Opportunities,	and	Recommendations](https://www.docnow.io/docs/docnow-whitepaper-2018.pdf)
 
 
 ## Further Reading
