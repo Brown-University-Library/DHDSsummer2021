@@ -9,21 +9,19 @@ parent: Syllabus
 ## Schedule
 
 * 11:00-11:30 Discuss readings; questions; feedback.
-* 11:30-12:30 Web scraping overview.
+* 11:30-12:30 Web scraping overview (Ashley Champagne)
 * _12:30-1:00 lunch_
-* 1:00-1:30 OCR overview.
-* 1:30-2:15 Collections as Data.
-* 2:15-3:15 Hands-on web scraping.
+* 1:00-1:30 OCR overview (Elli Mylonas)
+* 1:30-2:15 Collections as Data (Mac Carley)
+* 2:15-3:15 Hands-on web scraping (Ashley Champagne)
 * 3:15-3:30 Closing discussion.
 
 
 ## Details
 
-* _links for web scraping overview if any?_
+* If you would like to work with the TAGS software for collecting tweets, you will need to have a Twitter account and a Gmail account (your Brown email is fine).
 * OCR Intro and Overview (link to presentation)
-* Collections as Data (link to presentation, handout?)
-* Hands on web scraping links to whatever is needed.
-*
+* Collections as Data (link to presentation, handout)
 
 ## Homework
 

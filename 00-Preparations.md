@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preparations and information (Day 0)
+title: Preparations (Day 0)
 nav_order: 1
 parent: Syllabus
 ---
@@ -17,6 +17,6 @@ Participants will all be given access to the Google folder with some readings an
 
 ## Software to install
 
-For Tuesday 7/6, you may install AntConc (see page for Tuesday, July 6 for more details) in order to follow along the AntConc demo.
+_For Tuesday 7/6_, you may install AntConc (see page for Tuesday, July 6 for more details) in order to follow along the AntConc demo.
 
-For Friday 7/9 please download and install the Atom Text Editor. (see page for Friday, July 7 for more details)
+_For Friday 7/9_, please download and install the Atom Text Editor. (see page for Friday, July 7 for more details)

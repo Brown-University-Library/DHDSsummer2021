@@ -12,7 +12,7 @@ parent: Syllabus
 * 11:30-12:30 DH project evaluation and review exercise in groups
 * _12:30-1:00  lunch_
 * 1:00-2:00 Groups report back on DH project evaluation
-* 2:00-3:00 AntConc Demo and Hands-on
+* 2:00-3:00 AntConc Demo and Hands-on (Ashley Champagne)
 * 3:00-3:30 Introduce the rest of the workshop; questions; homework.
 
 ## Details
@@ -35,12 +35,12 @@ In 3 or 4 small groups, please select a digital project from the list below, and
 
 AntConc is a desktop concordance program developed by computational linguists, that can be used explore word usage in full text documents. If you haven't already, you can download it from [Laurence Anthony's Website](https://www.laurenceanthony.net/software/antconc/).
 
-<!-- Some datasets to use with AntConc.
-* dataset 1
-* dataset 2 -->
+Some datasets to use with AntConc
+*  [Documenting the American South North American Slave Narratives dataset](https://docsouth.unc.edu/neh/)
+* [Library of Southern Literature](https://docsouth.unc.edu/southlit/)
+
 
 ## Homework
-
 Read one or two of the following and write a one page response. Please put the response in the Day 1 Reading folder in the shared google drive. There will be a short discussion of the readings on Wednesday  morning.
 
 * Ryan Cordell ["Speculative Bibliography"](https://doi.org/10.1515/ang-2020-0041)
