@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tuesday, July 6. (Day 1)
-nav_order: 1
+nav_order: 2
 parent: Syllabus
 ---
 # Introductions and Exploration
@@ -35,9 +35,9 @@ In 3 or 4 small groups, please select a digital project from the list below, and
 
 AntConc is a desktop concordance program developed by computational linguists, that can be used explore word usage in full text documents. If you haven't already, you can download it from [Laurence Anthony's Website](https://www.laurenceanthony.net/software/antconc/).
 
-Some datasets to use with AntConc.
+<!-- Some datasets to use with AntConc.
 * dataset 1
-* dataset 2
+* dataset 2 -->
 
 ## Homework
 

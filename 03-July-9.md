@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Friday, July 9. (Day 3)
-nav_order: 3
+nav_order: 4
 parent: Syllabus
 ---
 # Cleaning and Structuring Data
