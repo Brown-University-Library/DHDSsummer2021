@@ -5,6 +5,7 @@ nav_order: 1
 parent: Syllabus
 ---
 
+# Preparations
 
 ## Zoom
 All workshop sessions will be using the same Zoom link. Please check the email sent out Friday afternoon for the link.
