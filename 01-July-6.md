@@ -52,6 +52,6 @@ Social	Movements: Challenges, Opportunities,	and	Recommendations](https://www.do
 ## Further Reading
 
 * AntConc tutorials: [A Simple Guide to Using AntConc](http://www.laurenceanthony.net/software/antconc/resources/help_AntConc321_english.pdf); The Programming Historian. [Corpus Analysis with AntConc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc); there are also YouTube tutorials.
-* John Unsworth's ["Scholarly Primitives: what methods do humanities researchers have in common, and how might our tools reflect this?"](https://www.timeanddate.com/worldclock/converter.html?iso=20210629T150000&p1=878) is a short thought piece that was presented as a talk, and is often cited in discussions of Digital Humanities and scholarly research.
+* John Unsworth's ["Scholarly Primitives: what methods do humanities researchers have in common, and how might our tools reflect this?"](https://johnunsworth.name/Kings.5-00/primitives.html) is a short thought piece that was presented as a talk, and is often cited in discussions of Digital Humanities and scholarly research.
 
 <br/>
