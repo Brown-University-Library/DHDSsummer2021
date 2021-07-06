@@ -42,7 +42,7 @@ Some datasets to use with AntConc
 
 
 ## Homework
-Read (or view) either the Cordell article or the Alker presentation and write a one page response. Please put the response in the Day 1 Reading folder in the shared google drive. Also read the white paper on _Documenting the Now_ in preparation for tomorrow's discussion.
+Read (or view) either the Cordell article or the Alker presentation and write a one page response. Please put the response in the Day 1 Reading folder in the shared google drive. Also read the white paper on _Documenting the Now_ in preparation for tomorrow's session on web scraping.
 
 * Ryan Cordell ["Speculative Bibliography"](https://doi.org/10.1515/ang-2020-0041)
 * IHR Digital History Seminar. Zoe Alker, ["Data mining convict tattoos, 1788-1925"](https://www.youtube.com/watch?v=L5jmtExC7A4) video
