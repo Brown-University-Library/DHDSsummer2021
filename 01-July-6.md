@@ -29,7 +29,8 @@ In 3 or 4 small groups, please select a digital project from the list below, and
 * [Early Caribbean Digital Archive](https://ecda.northeastern.edu/)
 * [Torn Apart / Separados](http://xpmethod.columbia.edu/torn-apart/volume/2/index)
 * [ORBIS](https://orbis.stanford.edu/)
-*
+* [Mapping Memories of Africville](https://storymaps.arcgis.com/stories/561e07e0d0504b2b918a1230fe554918)
+* [Faustedition](http://www.faustedition.net/) This is a digital edition in German - you can get a good idea of how it works by letting Google translate it. 
 
 ### AntConc demonstration and exercise
 
@@ -41,7 +42,7 @@ Some datasets to use with AntConc
 
 
 ## Homework
-Read one or two of the following and write a one page response. Please put the response in the Day 1 Reading folder in the shared google drive. There will be a short discussion of the readings on Wednesday morning.
+Read (or view) either the Cordell article or the Alker presentation and write a one page response. Please put the response in the Day 1 Reading folder in the shared google drive. Also read the white paper on _Documenting the Now_ in preparation for tomorrow's discussion.
 
 * Ryan Cordell ["Speculative Bibliography"](https://doi.org/10.1515/ang-2020-0041)
 * IHR Digital History Seminar. Zoe Alker, ["Data mining convict tattoos, 1788-1925"](https://www.youtube.com/watch?v=L5jmtExC7A4) video

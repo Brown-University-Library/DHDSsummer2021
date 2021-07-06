@@ -25,7 +25,7 @@ parent: Syllabus
 
 ## Homework
 
-Read one or two of the following and write a one page response. Please put the response in the Day 2 Reading folder in the shared google drive. There will be a short discussion of the readings on Friday morning.
+Read rwo (or more) of the following and write a one page response. Please put the response in the Day 2 Reading folder in the shared google drive. There will be a short discussion of the readings on Friday morning.
 
 * Rawson and Muñoz, ["Against Cleaning"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51)
 * Hannah Davis, ["A dataset is a worldview"](https://towardsdatascience.com/a-dataset-is-a-worldview-5328216dd44d)
