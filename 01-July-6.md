@@ -30,7 +30,7 @@ In 3 or 4 small groups, please select a digital project from the list below, and
 * [Torn Apart / Separados](http://xpmethod.columbia.edu/torn-apart/volume/2/index)
 * [ORBIS](https://orbis.stanford.edu/)
 * [Mapping Memories of Africville](https://storymaps.arcgis.com/stories/561e07e0d0504b2b918a1230fe554918)
-* [Faustedition](http://www.faustedition.net/) This is a digital edition in German - you can get a good idea of how it works by letting Google translate it. 
+* [Faustedition](http://www.faustedition.net/) This is a digital edition in German - you can get a good idea of how it works even if you don't read German by letting Google translate it. 
 
 ### AntConc demonstration and exercise
 
