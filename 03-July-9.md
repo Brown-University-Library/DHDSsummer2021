@@ -16,9 +16,22 @@ parent: Syllabus
 * We will be working with the Atom text editor on your computer. This is a cross platform text editor and Integrated Development Environment (IDE) that is a fundamental tool you will use over and over again. To install it, follow the instructions on the [Atom page](https://atom.io/) for your operating system.
 
 ## Homework
-Read one or two of the following and write a one page response. Please put the response in the Day 3 Reading folder in the shared google drive. There will be a short discussion of the readings on Monday morning.
+Read one or two of the following and write a one page response. Please put the response in the Day 3 Reading folder in the shared google drive. There will be a short discussion of the readings on Monday morning. [Not finalized yet]
 
 * D'Ignazio and Klein [1. The Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/3?readingCollection=0cd867ef#annotations:oBzRwKakEeumQ4cWPahqmQ) in _Data Feminism_
+* Panel session abstract ["Precarious Labor in the Digital Humanities."](https://dh2018.adho.org/en/precarious-labor-in-the-digital-humanities/). DH2018
+* Spencer Keralis [Disrupting Labor in Digital Humanities; or, The Classroom Is Not Your Crowd](https://search.library.brown.edu/catalog/b9066912). In _Disrupting the Digital Humanities_.  doi:10.2307/j.ctv19cwdqv.20
+
+For Monday's presentation on Organizing Data please read two of the following:
+* One of "Chapter 5: Assess, Annotate, ExportQuick Recipes for Archiving Your Personal Digital Life in Brianna H. Marshall". (2018). The Complete Guide to Personal Digital Archiving. ALA Editions. [Link to ebook in Josiah]()
+
+Chapter 4 Documentation and Chapter 5 Organization in Kristin Briney. (2015). Data Management for Researchers : Organize, Maintain and Share Your Data for Research Success. Pelagic Publishing. Link to ebook in Josiah
+
+Karl W. Broman & Kara H. Woo (2018) Data Organization in Spreadsheets, The American Statistician, 72:1, 2-10, DOI: 10.1080/00031305.2017.1375989
+
+Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(10), 1 - 23. doi:http://dx.doi.org/10.18637/jss.v059.i10
+
+Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18
 
 ## Further Reading
 
