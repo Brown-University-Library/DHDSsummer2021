@@ -11,7 +11,7 @@ parent: Syllabus
 * 11:00-11:30 Discuss readings; questions; feedback.
 * 11:30-12:30 Web scraping overview (Ashley Champagne)
 * _12:30-1:00 lunch_
-* 1:00-1:30 OCR overview (Elli Mylonas)
+* 1:00-1:30 OCR overview (Elli Mylonas and Cody Carvel)
 * 1:30-2:15 Collections as Data (Mac Carley)
 * 2:15-3:15 Hands-on web scraping (Ashley Champagne)
 * 3:15-3:30 Closing discussion.
@@ -20,7 +20,8 @@ parent: Syllabus
 ## Details
 
 * If you would like to work with the TAGS software for collecting tweets, you will need to have a Twitter account and a Gmail account (your Brown email is fine).
-* OCR Intro and Overview (link to presentation)
+* [Introduction](http://brown.edu/go/CDS-OCR) to OCR principles and software
+* Cody Carvel's [Tutorial](https://ccarvel.github.io/ocr-htr-tutorial/) for complex and hand-written text recognition using cloud services.
 * Collections as Data (link to presentation, handout)
 
 ## Homework
@@ -35,10 +36,10 @@ Read rwo (or more) of the following and write a one page response. Please put th
 Start to think about your project. Create a Google doc in the Workshop Shared folder and write a paragraph (more if you feel like it) about your project. Remember that you only have a week to work on it, so don't be too ambitious. We will be using the proposal documents for collaborative feedback.  You should identify the research question, and the dataset that you plan to use, as well as the digital tools and methods that seem to be applicable. The project may be a proof of concept or very limited version of something you would expand later.
 
 ## Further Reading
-
 * ? examples of web scraping?
 * OCR report from Northeastern?
 * longer document on collections as data?
+* Off the shelf text analysis software to play with: [Voyant](https://voyant-tools.org/)
 
 <br/>
 {% include footer.html %}
