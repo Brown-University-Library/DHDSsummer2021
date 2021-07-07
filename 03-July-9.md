@@ -37,5 +37,6 @@ Some optional readings for Monday's presentation on Organizing Data. (Andrew sug
 
 * [OpenRefine](https://openrefine.org/) is a freely available tool for cleaning up, transforming and exploring tabular data. Although it isn't possible to present it in this workshop, CDS teaches a workshop on OpenRefine on a regular basis. There is extensive [user documentation](https://docs.openrefine.org/) and several tutorials listed on the OpenRefine [documentation page](https://openrefine.org/documentation.html).
 * Atom documentation and tutorial. [The Atom Flight Manual](https://flight-manual.atom.io/). LinkedIn Learning has a video tutorial [Learning Atom](https://www.linkedin.com/learning/learning-atom-2). This requires you to authenticate with a Brown ID.
+* "Collaborators' Bill of Rights" (http://dx.doi.org/10.17613/mvar-kj35)
 
 <br/>
