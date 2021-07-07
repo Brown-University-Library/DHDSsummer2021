@@ -22,6 +22,7 @@ parent: Syllabus
 * Guides for web scraping Text Mining Resources
    * [Web Scraping Toolkit](https://libguides.brown.edu/web-scrape)
    * [Text Mining Resources](https://libguides.brown.edu/text-mining)
+* Web scraping [slides](https://docs.google.com/presentation/d/1EhRVSMfBbrggp2Lp_TxVB-57rWS04aMWmlcs2w_jKxQ/edit#slide=id.g6eda9ecff3_0_49)
 * [Introduction](http://brown.edu/go/CDS-OCR) to OCR principles and software
 * Cody Carvel's [Tutorial](https://ccarvel.github.io/ocr-htr-tutorial/) for complex and hand-written text recognition using cloud services.
 * Collections as Data [slides](https://docs.google.com/presentation/d/1pda-P6wyFxWEpcal3IUERaAhU4-UdUiwvkBJ7-IOikc/edit?usp=sharing)
