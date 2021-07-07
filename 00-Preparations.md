@@ -28,10 +28,11 @@ If you have time, take a look at the two rubrics for evaluating Digital Humaniti
 * On Thursday 7/8 and Tuesday 7/13 and Thursday 7/15 there will be open office hours from 11-12 (Providence time). Use the same Zoom link as we are using for workshop meetings. Please join if you have questions about workshop topics, about your project or if you just want to talk about Digital Scholarship and Digital Humanities.
 * If you have GIS questions, you can [make an appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpsSUU1Zi1hbE95fGRlZmF1bHR8NWE4MGU4NDVlNzI0MTcxYTgyMDgxYTg5YjllZDJmZWU) with Frank Donnelly on Tuesday 7/13 or Thursday 7/15.
 * CDS staff are also available by appointment.
-  * Ashley Champagne (mailto:ashley_champagne@brown.edu)
-  * Andrew Creamer (mailto:andrew_creamer@brown.edu)
-  * Elli Mylonas (mailto:elli_mylonas@brown.edu)
-  * Patrick Rashleigh (mailto:patrick_rashleigh@brown.edu)
-  * Steve Lubar (mailto:lubar@brown.edu)
+  * Cody Carvel cody_carvel@brown.edu
+  * Ashley Champagne ashley_champagne@brown.edu
+  * Andrew Creamer andrew_creamer@brown.edu
+  * Frank Donnelly [Book a time](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpsSUU1Zi1hbE95fGRlZmF1bHR8NWE4MGU4NDVlNzI0MTcxYTgyMDgxYTg5YjllZDJmZWU) or frank_donnelly@brown.edu
+  * Elli Mylonas elli_mylonas@brown.edu
+  * Patrick Rashleigh patrick_rashleigh@brown.edu
+  * Steve Lubar lubar@brown.edu
   * Mac Carley (mailto:meaghan_carley@brown.edu)
-  *
