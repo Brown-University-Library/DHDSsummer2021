@@ -26,7 +26,7 @@ parent: Syllabus
 * Cody Carvel's [Tutorial](https://ccarvel.github.io/ocr-htr-tutorial/) for complex and hand-written text recognition using cloud services.
 * Collections as Data [slides](https://docs.google.com/presentation/d/1pda-P6wyFxWEpcal3IUERaAhU4-UdUiwvkBJ7-IOikc/edit?usp=sharing)
 * If you would like to work with the TAGS software for collecting tweets, you will need to have a Twitter account and a Gmail account (your Brown email is fine).
-* Please make a copy of the [Colab notebook](https://colab.research.google.com/drive/1DunwKqOQJCtPRl89HzyXq_A6scUkm2XC?usp=sharing) here. You can then work with this on your own.
+* To use the Twint web Twitter web scraping interfacei in a Colab notebook, please make a copy of the [Colab notebook](https://colab.research.google.com/drive/1DunwKqOQJCtPRl89HzyXq_A6scUkm2XC?usp=sharing) here. You can then work with this on your own.
 
 ## Homework
 
