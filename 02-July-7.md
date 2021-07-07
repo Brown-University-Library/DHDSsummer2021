@@ -36,10 +36,8 @@ Read rwo (or more) of the following and write a one page response. Please put th
 Start to think about your project. Create a Google doc in the Workshop Shared folder and write a paragraph (more if you feel like it) about your project. Remember that you only have a week to work on it, so don't be too ambitious. We will be using the proposal documents for collaborative feedback.  You should identify the research question, and the dataset that you plan to use, as well as the digital tools and methods that seem to be applicable. The project may be a proof of concept or very limited version of something you would expand later.
 
 ## Further Reading
-* ? examples of web scraping?
-* OCR report from Northeastern?
-* longer document on collections as data?
-* Off the shelf text analysis software to play with: [Voyant](https://voyant-tools.org/)
+
+* [_A Research Agenda for Historical and Multilingual Optical Character Recognition_](https://repository.library.northeastern.edu/collections/neu:cj82sz060)
 
 <br/>
 {% include footer.html %}
