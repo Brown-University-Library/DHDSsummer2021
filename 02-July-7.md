@@ -22,11 +22,11 @@ parent: Syllabus
 * If you would like to work with the TAGS software for collecting tweets, you will need to have a Twitter account and a Gmail account (your Brown email is fine).
 * [Introduction](http://brown.edu/go/CDS-OCR) to OCR principles and software
 * Cody Carvel's [Tutorial](https://ccarvel.github.io/ocr-htr-tutorial/) for complex and hand-written text recognition using cloud services.
-* Collections as Data (link to presentation, handout)
+* Collections as Data [slides](https://docs.google.com/presentation/d/1pda-P6wyFxWEpcal3IUERaAhU4-UdUiwvkBJ7-IOikc/edit?usp=sharing)
 
 ## Homework
 
-Read rwo (or more) of the following and write a one page response. Please put the response in the Day 2 Reading folder in the shared google drive. There will be a short discussion of the readings on Friday morning.
+Read two (or more) of the following and write a one page response. Please put the response in the Day 2 Reading folder in the shared google drive. There will be a short discussion of the readings on Friday morning.
 
 * Rawson and Muñoz, ["Against Cleaning"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51)
 * Hannah Davis, ["A dataset is a worldview"](https://towardsdatascience.com/a-dataset-is-a-worldview-5328216dd44d)
@@ -38,7 +38,8 @@ Start to think about your project. Create a Google doc in the Workshop Shared fo
 ## Further Reading
 * ? examples of web scraping?
 * OCR report from Northeastern?
-* longer document on collections as data?
+* Thomas Padilla, ["On a Collections as Data Imperative"](https://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf)
+* ["Collections as Data: Part to Whole"](https://collectionsasdata.github.io/part2whole/)
 * Off the shelf text analysis software to play with: [Voyant](https://voyant-tools.org/)
 
 <br/>
