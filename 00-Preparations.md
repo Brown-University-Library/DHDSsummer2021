@@ -35,4 +35,4 @@ If you have time, take a look at the two rubrics for evaluating Digital Humaniti
   * Elli Mylonas elli_mylonas@brown.edu
   * Patrick Rashleigh patrick_rashleigh@brown.edu
   * Steve Lubar lubar@brown.edu
-  * Mac Carley (mailto:meaghan_carley@brown.edu)
+  * Mac Carley meaghan_carley@brown.edu
