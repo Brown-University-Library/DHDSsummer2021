@@ -22,6 +22,7 @@ Atom is one of a several text editors used for writing programs. It was chosen b
 * Look at parenthesis matching and completion. HTML completion. Markdown highlighting. This may not be instantly useful, but it's the kind of thing that text editors are good at.
 * Open a folder and to view it as a project.  Open one or more files.
 * Experiment with Find, Find All, Find and Replace. Also with Find in all the files in a project. Look at the find options.
+* Lines vs. paragraphs in a text editor. Sort and remove duplicates.
 
 ## A few words about GitHub.
 Git and GitHub were developed as a distributed version control system for code. This means that it was possible to efficiently save and retrieve versions of a file, and also to have more than one person editing on a file or collection of files and to manage the files so that everyone's changes could be saved and merged. Increasingly, GitHub is used not only as a working code repository, but also for data—DH and other projects store their data in GitHub so that it can be updated and edited collaboratively, and so that older versions can be saved and retrieved. In addition, GitHub has a feature that can be used to generate web pages, and a variety of social features that allow the files stored in GitHub repositories to be shared, copied and improved by communities of coders or researchers.
