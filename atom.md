@@ -11,6 +11,8 @@ parent: Tools and Software
 
 A text editor is an application that can create and edit text files. Unlike Microsoft Word and other word processors, it doesn't support formatting such as bold, headings, footnotes and other layout features. Instead, it has features that facilitate writing code and manipulating text. You can use it to insert commands that will allow text to be formatted for example HTML tags or MarkDown, or to write programs. Atom also has the ability to clean and re-arrange text.
 
+Macs and Windows machines come with something approximating a text editor: NotePad and TextEdit. These are not as full featured as Microsoft Word, but they are able to display formatted text, unless plain text (text-only) is specified as an output format. They can be used to edit text files if necessary, but there is a risk that the file will be saved in a binary (formatted) format and they do not have all the features of an editor like Atom.
+
 Atom can be used to create a customized and very sophisticated (and complex) environment for writing programs. For our purposes, however, we will focus on managing groups of files, exploring them and modifying them using regular expressions.
 
 Atom is one of a several text editors used for writing programs. It was chosen because it is open source and runs on Windows, Mac OS and Linux, so everyone can work with the same software. Two other popular open source editors that run on all three operating systems are [Sublime Text](https://www.sublimetext.com/) and [Visual Studio Code](https://code.visualstudio.com/). All three have very similar capabilities.
