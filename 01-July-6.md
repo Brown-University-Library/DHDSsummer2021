@@ -36,6 +36,8 @@ In 3 or 4 small groups, please select a digital project from the list below, and
 
 AntConc is a desktop concordance program developed by computational linguists, that can be used explore word usage in full text documents. If you haven't already, you can download it from [Laurence Anthony's Website](https://www.laurenceanthony.net/software/antconc/).
 
+* AntConc demo [slides](https://docs.google.com/presentation/d/1AZ_LSU_GmVoUWtb1WCzK1IE316peRtqdD19v0O6nkNQ/edit#slide=id.p)
+
 Some datasets to use with AntConc
 *  [Documenting the American South North American Slave Narratives dataset](https://docsouth.unc.edu/neh/)
 * [Library of Southern Literature](https://docsouth.unc.edu/southlit/)
