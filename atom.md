@@ -32,6 +32,8 @@ Atom is one of a several text editors used for writing programs. It open source 
 ## A few words about GitHub.
 Git was developed as a distributed version control system for code. This means that it was possible to efficiently save and retrieve versions of a file. It also allows more than one person to edit a file or collection of files and and make sure that everyone's changes are saved and merged correctly. GitHub is a specific implementation of Git that adds project management capabilities to Git's file management. Increasingly, GitHub is used not only as a working code repository, but also for data. DH and other projects store their data in GitHub so that it can be updated and edited collaboratively, and so that older versions can be saved and retrieved. In addition, GitHub has a feature that can be used to generate web pages, and a variety of social features that allow the files stored in GitHub repositories to be shared, copied and improved by communities of coders or researchers. The website for this workshop was created using GitHub pages.
 
+Learn more about GitHub: [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github). 
+
 
 ̨̨̨
 
