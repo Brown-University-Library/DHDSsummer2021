@@ -14,9 +14,11 @@ parent: Syllabus
 
 ## Details
 * We will be working with the Atom text editor on your computer. This is a cross platform text editor and Integrated Development Environment (IDE) that is a fundamental tool you will use over and over again. To install it, follow the instructions on the [Atom page](https://atom.io/) for your operating system.
+* Download the [Zip file](https://drive.google.com/file/d/16hNAxyxbP7k2DW-FZBZ9swYMxyzUR9q3/view?usp=sharing) that is in the shared Google folder. It contains the files we will be working with in the afternoon.
+* [Regular Expression Cheatsheet](https://drive.google.com/file/d/1S7ddpZdzQhxQGhNnGPx__NEvsMWhRjHp/view?usp=sharing) (in the shared Google folder)
 
 ## Homework
-Read one or two of the following and write a one page response. Please put the response in the Day 3 Reading folder in the shared google drive. There will be a short discussion of the readings on Monday morning. [Not finalized yet]
+Read one or two of the following and write a one page response. Please put the response in the Day 3 Reading folder in the shared google drive. There will be a short discussion of the readings on Monday morning.
 
 * D'Ignazio and Klein [1. The Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/3?readingCollection=0cd867ef#annotations:oBzRwKakEeumQ4cWPahqmQ) in _Data Feminism_
 * Panel session abstract ["Precarious Labor in the Digital Humanities."](https://dh2018.adho.org/en/precarious-labor-in-the-digital-humanities/). DH2018
@@ -37,6 +39,7 @@ Some optional readings for Monday's presentation on Organizing Data. (Andrew sug
 
 * [OpenRefine](https://openrefine.org/) is a freely available tool for cleaning up, transforming and exploring tabular data. Although it isn't possible to present it in this workshop, CDS teaches a workshop on OpenRefine on a regular basis. There is extensive [user documentation](https://docs.openrefine.org/) and several tutorials listed on the OpenRefine [documentation page](https://openrefine.org/documentation.html).
 * Atom documentation and tutorial. [The Atom Flight Manual](https://flight-manual.atom.io/). LinkedIn Learning has a video tutorial [Learning Atom](https://www.linkedin.com/learning/learning-atom-2). This requires you to authenticate with a Brown ID.
+* [Understanding Regular Expressions](https://programminghistorian.org/en/lessons/understanding-regular-expressions)
 * "Collaborators' Bill of Rights" (http://dx.doi.org/10.17613/mvar-kj35)
 
 <br/>
